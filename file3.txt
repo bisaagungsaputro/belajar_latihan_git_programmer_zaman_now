@@ -1,2 +1,0 @@
-Menambah file3.txt
-Menambah Baris file3.txt

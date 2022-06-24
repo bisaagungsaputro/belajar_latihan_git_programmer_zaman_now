@@ -1,1 +1,2 @@
 Menambah file2.txt
+Menambah Baris file2.txt

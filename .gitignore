@@ -1,0 +1,11 @@
+# Ignore Folder Log
+log/
+
+# Ignore File Ektension .backup
+*.backup
+
+# Ignore ignore.txt
+ignore.txt
+
+# Ignore bebas.php = File Bahasa Pemprograman
+bebas.php
